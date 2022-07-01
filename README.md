@@ -4,7 +4,7 @@ Script Terrafom
 Esse foi um projeto que realizei para aprender um pouco de terraform 
 Na topologia temos as seguintes configurações:
 
-VPC
+- VPC
 Subnet pública e Subnet privada
 EC2
 instância de banco de dados Mysql
